@@ -1,0 +1,16 @@
+name: AntiPluginList
+version: 1.7.10-R0.1-SNAPSHOT
+description: Anti Plugin List plugin for Bukkit.
+load: POSTWORLD
+author: HIKARU0721
+authors:
+website: http://hikaru0721.com/
+main: com.hikaru0721.antipluginlist.AntiPluginList
+database: false
+prefix: AntiPluginList
+depend:
+softdepend:
+loadbefore:
+commands:
+permissions:
+default-permission: OP
