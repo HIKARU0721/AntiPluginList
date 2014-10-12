@@ -7,7 +7,7 @@ import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
- * Anti Plugin List plugin for Bukkit.
+ * AntiPluginList plugin for Bukkit.
  * @author HIKARU0721
  */
 public class AntiPluginList extends JavaPlugin {

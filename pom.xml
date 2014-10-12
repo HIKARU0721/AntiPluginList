@@ -6,7 +6,7 @@
     <version>1.7.10-R0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>AntiPluginList</name>
-    <description>Anti Plugin List plugin for Bukkit.</description>
+    <description>AntiPluginList plugin for Bukkit.</description>
     <licenses>
         <license>
             <name>GNU Lesser General Public License version 3</name>
