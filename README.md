@@ -1,4 +1,4 @@
 AntiPluginList
 ==============
 
-Anti Plugin List plugin for Bukkit.
+AntiPluginList plugin for Bukkit.
